@@ -23,8 +23,6 @@ This project analyzes airline passenger traffic to compare **BigWings Airlines**
 
 -   [❓ Business Questions](#-business-questions)
 -   [📌 Project Workflow](#-project-workflow)
--   [⚙️ Data Model](#-data-model)
--   [📊 Key Metrics](#-key-metrics)
 -   [📈 Analysis & Insights](#-analysis--insights)
 -   [🛠️ Tools & Techniques Used](#️-tools--techniques-used)
 -   [🔑 Key Business Insights](#-key-business-insights) 
@@ -218,7 +216,7 @@ In **Diagram View**, established relationships:
 
 ------------------------------------------------------------------------
 
-## 📈 Analysis & Insights
+## 🔑 Key Business Insights
 
 ### 1. Passenger Trends Over Time
 
